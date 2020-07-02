@@ -1,0 +1,22 @@
+baseURL = "http://deno-docs.netlify.app"
+
+title = "Deno Docs"
+configDir = "config"
+
+enableEmoji = true
+enableRobotsTXT = true
+# Will give values to .Lastmod etc.
+enableGitInfo = true
+
+# Language settings
+contentDir = "content/zh"
+defaultContentLanguage = "zh"
+languageCode = "zh-CN"
+defaultContentLanguageInSubdir = false
+# Useful when translating.
+enableMissingTranslationPlaceholders = true
+
+# Hugo allows theme composition (and inheritance). The precedence is from left to right.
+theme = ["docsy"]
+disableKinds = ["taxonomy", "taxonomyTerm"]
+

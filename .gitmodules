@@ -6,3 +6,6 @@
 	url = https://github.com/microsoft/TypeScript.git
 	fetchRecurseSubmodules = false
 	shallow = true
+[submodule "themes/docsy"]
+	path = themes/docsy
+	url = https://github.com/google/docsy.git

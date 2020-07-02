@@ -1,0 +1,13 @@
+[zh]
+  title = "Deno 文档"
+  description = "Deno 文档"
+  contentDir = "content/zh"
+  languageName = "中文"
+  weight = 1
+
+[en]
+  title = "Deno Docs"
+  description = "Deno document"
+  contentDir = "content/en"
+  languageName = "English"
+  weight = 2
