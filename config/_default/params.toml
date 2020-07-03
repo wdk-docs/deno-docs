@@ -1,6 +1,6 @@
 # Everything below this are Site Params
 
-copyright = "The got-docs Authors"
+copyright = "The deno-docs Authors"
 privacy_policy = "https://policies.google.com/privacy"
 
 # First one is picked as the Twitter card image if not set on page.
@@ -22,12 +22,12 @@ version = "1.0"
 
 # A link to latest version of the docs. Used in the "version-banner" partial to
 # point people to the main doc site.
-url_latest_version = "https://got-docs.netlify.com"
+url_latest_version = "https://deno-docs.netlify.com"
 
 # Repository configuration (URLs for in-page links to opening issues and suggesting changes)
-github_repo = "https://github.com/wdk-docs/got-docs"
+github_repo = "https://github.com/wdk-docs/deno-docs"
 # An optional link to a related project repo. For example, the sibling repository where your product code lives.
-github_project_repo = "https://github.com/wdk-docs/got-docs"
+github_project_repo = "https://github.com/wdk-docs/deno-docs"
 
 # Specify a value here if your content directory is not in your repo's root directory
 # github_subdir = ""
@@ -61,8 +61,8 @@ footer_about_disable = false
 [ui.feedback]
 enable = true
 # The responses that the user sees after clicking "yes" (the page was helpful) or "no" (the page was not helpful).
-yes = '很高兴听到！ 请<a href="https://github.com/wdk-docs/got-docs/issues/new">告诉我们，我们如何才能改善</a>.'
-no = '很遗憾听到这个消息。 请<a href="https://github.com/wdk-docs/got-docs/issues/new">告诉我们，我们如何才能改善</a>.'
+yes = '很高兴听到！ 请<a href="https://github.com/wdk-docs/deno-docs/issues/new">告诉我们，我们如何才能改善</a>.'
+no = '很遗憾听到这个消息。 请<a href="https://github.com/wdk-docs/deno-docs/issues/new">告诉我们，我们如何才能改善</a>.'
 
 [links]
 # End user relevant links. These will show up on left side of footer and in the community page if you have one.
@@ -84,7 +84,7 @@ no = '很遗憾听到这个消息。 请<a href="https://github.com/wdk-docs/got
 # Developer relevant links. These will show up on right side of footer and in the community page if you have one.
 [[links.developer]]
   name = "GitHub"
-  url = "https://github.com/wdk-docs/got-docs"
+  url = "https://github.com/wdk-docs/deno-docs"
   icon = "fab fa-github"
         desc = "Development takes place here!"
 [[links.developer]]
