@@ -46,7 +46,7 @@ rustyline = { version = "6.2", default-features = false }
 serde = { version = "1.0.112", features = ["derive"] }
 serde_derive = "1.0.112"
 serde_json = { version = "1.0.55", features = [ "preserve_order" ] }
-sys-info = "0.7.0"
+sys-info = "0.8.0"
 sourcemap = "5.0.0"
 tempfile = "3.1.0"
 termcolor = "1.1.0"
