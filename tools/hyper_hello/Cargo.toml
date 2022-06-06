@@ -4,7 +4,7 @@ version = "0.0.1"
 edition = "2018"
 
 [dependencies]
-hyper = "0.13.6"
+hyper = "0.14.5"
 tokio = { version = "0.2.21", features = ["full"] }
 
 [[bin]]
